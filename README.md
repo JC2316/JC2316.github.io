@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to JC2316's homepage!
+Feel free to bookmark this page for new updates on projects!
 
-You can use the [editor on GitHub](https://github.com/JC2316/JC2316.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Languages Learned/Learning: 
+- Python
+- Java
+- HTML/CSS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Potential Future Projects: 
+- basic calculator 
+- app
+- webpage 
+- simple banking system 
 
-### Markdown
+### Interests: 
+- Software programming
+- App building 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
